@@ -1,9 +1,9 @@
 ---
-title: "Génération Intuitive de Mouvements 3D (2025)"
+title: "GIM3D : Génération Intuitive de Mouvements 3D (2025)"
 date: 2025-04-23
 draft: false
 description: "Génération Intuitive de Mouvements 3D"
-tags: ["Ra&D", "Groupe Imagerie", "Motion-Lab @ HE-Arc", "Sports & Rehabilitation", "Animation 3D"]
+tags: ["Ra&D", "Sports & Rehabilitation", "Animation 3D"]
 authors : ['Dimitri Kohler', "Antoine Lestrade", "Benoit Le Callennec"]
 ---
 
@@ -35,7 +35,4 @@ src="gallery/GIM3D_3.png"
 >}}
 </div>
 
-
 {{% /columns %}}
-
-{{< description TICd>}}

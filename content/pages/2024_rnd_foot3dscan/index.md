@@ -3,7 +3,7 @@ title: "Foot 3D Scan (2024)"
 date: 2024-11-07
 draft: false
 description: "Scan de pied pour aider les physiothérapeutes"
-tags: ["Ra&D", "Groupe Imagerie", "Motion-Lab @ HE-Arc", "Sports & Rehabilitation", "Reconstruction 3D"]
+tags: ["Ra&D", "Sports & Rehabilitation", "Reconstruction 3D"]
 authors : ["Ivan Serra Moncadas", "Benoit Le Callennec"]
 ---
 
@@ -14,7 +14,6 @@ authors : ["Ivan Serra Moncadas", "Benoit Le Callennec"]
 Les physiothérapeutes ont besoin de faire un scan 3D détaillé des pieds d’un patient au début d’une séance. Cela permettrait d’optimiser l’analyse de la marche, d’affiner les diagnostics et de proposer des traitements mieux adaptés. L’analyse précise des pieds repose sur la qualité des données initiales recueillies lors de l’examen. Dans ce cadre, une mesure fine et rapide de la morphologie du pied constitue un élément essentiel pour améliorer l’interprétation des paramètres cliniques.
 
 À l’heure actuelle, aucune solution disponible ne permet d’obtenir un modèle 3D des pieds qui soit à la fois rapide, fiable et suffisamment pratique pour être intégré en routine clinique. Les outils existants sont souvent trop lents, trop coûteux ou trop complexes à manipuler durant une consultation. Dès lors, il devient nécessaire de concevoir une solution sur mesure, pensée pour le confort du patient et l’efficacité du professionnel de santé.
-Ce projet fait suite au projet GapKo. [Gapko] (https://he-arc.github.io/imagerie-portfolio/projects/2023_rnd_gapko/)
 
 {{< youtubeLite id="RHN5QRGbgyY" label="Prototype Foot 3D Scan (2024)" >}}
 
@@ -40,11 +39,6 @@ Le système acquiert et traite simultanément les informations de profondeur afi
 
 Pour l’instant, il n’a été démontré que théoriquement qu’il serait possible d’obtenir un résultat similaire sur smartphone, sans prototype fonctionnel mis en place.
 
-
-
 <---> <!-- magic separator, between columns -->
 
-
 {{% /columns %}}
-
-{{< description TICd>}}
