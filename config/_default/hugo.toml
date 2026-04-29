@@ -3,7 +3,7 @@
 # https://nunocoracao.github.io/blowfish/docs/getting-started/
 
 theme = "blowfish"
-# baseURL = "https://estradel.github.io/IL_Portfolio/"
+baseURL = "https://motion-lab-he-arc.github.io/"
 defaultContentLanguage = "fr"
 
 enableRobotsTXT = true
