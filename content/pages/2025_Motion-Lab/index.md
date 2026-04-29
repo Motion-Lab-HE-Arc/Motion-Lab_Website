@@ -1,5 +1,6 @@
 ---
 title: "Motion-Lab @ HE-Arc"
+weight: 1
 date: 2026-03-11
 draft: false
 description: "Laboratoire de capture de mouvements 3D @ HE-Arc"
