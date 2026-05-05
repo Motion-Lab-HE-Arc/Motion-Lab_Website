@@ -60,9 +60,10 @@ Nous nous ferons un plaisir de discuter de vos projets et de vos besoins en mati
 
 <div class="[&>figure]:my-4">
 {{< figure
-  src="gallery/Motion-Lab_5.jpg"
+  src="/24-heures-logo.png"
   href="https://www.24heures.ch/chuv-un-ecran-de-realite-virtuelle-pour-ralentir-larthrose-416036556539"
   target="_self"
+  nozoom=true
 >}}
 
 {{< youtubeLite id="Td4_gzA9EMY" label="Motion-Lab @ HE-Arc - Capture de mouvement avec OptiTrack (Juin 2025)" >}}
